@@ -1,7 +1,8 @@
-void main()
-{
-  print("Hello I am talha");
-  print("I am learning git");
-  print("Hello I am talha");
-  print("I am learning git");
+
+=======
+void main(){
+  print('hellow');
+  print('this is second change');
+
 }
+>>>>>>> origin/main
